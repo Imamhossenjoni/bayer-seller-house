@@ -1,0 +1,56 @@
+[
+    {
+        "brand": "Apple ",
+        "product": "iPhone XR",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg",
+        "price": 81700,
+        "name": "Abdul Kader",
+        "vat": 4085,
+        "email": "imamhossen204@gmail.com"
+    },
+    {
+        "brand": "Apple ",
+        "product": "iPhone XS",
+        "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg",
+        "price": 123000,
+        "name": "Abdul Kader",
+        "vat": 6150,
+        "email": "imamhossen204@gmail.com"
+    },
+    {
+        "brand": "Top 10",
+        "product": "Winter Huri",
+        "img": "https://i.ibb.co/VtsSGmj/download-1.jpg",
+        "price": 850,
+        "vat": 42,
+        "name": "Jahid Hasan",
+        "email": "amranhossain@gmail.com"
+    },
+    {
+        "brand": "Top 10",
+        "product": "Custom Black T-Shirt",
+        "img": "https://i.ibb.co/mc7DRD8/images-1.jpg",
+        "price": 500,
+        "vat": 25,
+        "name": "Jahid Hasan",
+        "email": "amranhossain@gmail.com"
+    },
+    {
+        "brand": "Acos",
+        "product": "Hard Drive",
+        "img": "https://i.ibb.co/yy25yg8/hard-drive.jpg",
+        "price": 2000,
+        "vat": 100,
+        "email": "imamhossen204@gmail.com",
+        "name": "Abdul Kader"
+    },
+    {
+        "brand": "Acos",
+        "product": "CPU",
+        "img": "https://i.ibb.co/hyq97Mq/cpu.jpg",
+        "price": 1000,
+        "vat": 50,
+        "email": "imamhossen204@gmail.com",
+        "name": "Abdul Kader"
+    }
+]
